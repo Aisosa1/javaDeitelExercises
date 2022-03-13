@@ -22,13 +22,12 @@ public class Deitel2 {
         if (variable != 7)
             System.out.println("variable is not equal to 7");
 
-        // 2.4
+        // 2.4          ``  `
 
 int x;
 int y;
 int z;
 int result;
-
         System.out.println("enter first integer");
         x = input.nextInt();
         System.out.println("enter second integer");
